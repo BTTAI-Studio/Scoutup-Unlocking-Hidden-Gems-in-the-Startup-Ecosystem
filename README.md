@@ -19,6 +19,7 @@ Leverage data-driven insights to analyze funding trends.
 **Methods:**
 
 Data Collection & Preparation: Explored Crunchbase 2013 dataset; cleaned and normalized data for modeling.
+Feature Engineering: Applied K-core extraction, handled missing values, added interaction and negative interaction. 
 Model Development: Implemented KNN, LightFM, and Pairwise Neural Network models.
 Evaluation Metrics: Focused on accuracy, precision, and recall for optimal recommendations.
 Key Outcomes:
@@ -46,7 +47,7 @@ Shrey Verma, Adedapo Alabi
 
 **Tools Used:**
 
-Google Colab, Crunchbase, Pandas, TensorFlow, LightFM
+Google Colab, Crunchbase, Pandas, TensorFlow, LightFM, Python
 
 **Thank you to the Break Through Tech Program at Cornell Tech for all the support!**
 
