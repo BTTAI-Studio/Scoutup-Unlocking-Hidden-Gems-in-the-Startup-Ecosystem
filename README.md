@@ -4,14 +4,16 @@ A model that recommends relevant startups to JPMC investors based on preferences
 
 **Project Overview**
 
-**Objective: **
+Objective: 
 
 Develop a recommendation model for startups tailored to investors using Crunchbase 2013 investment data.
 
 **Goals:**
 
 Build an accurate recommendation system.
+
 Enhance investor-client relations in JPMorgan's Wealth Management sector.
+
 Leverage data-driven insights to analyze funding trends.
 
 **Methods:**
