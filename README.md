@@ -26,13 +26,11 @@ Key Outcomes:
 Achieved 93% accuracy with a pairwise neural network model.
 Identified critical patterns in funding stages (e.g., Series A, Series B).
 Addressed challenges like data sparsity and class imbalance.
-Visuals:
-
-Gains charts and model performance graphs included to highlight findings.
 
 **Future Directions:**
 
 Develop a frontend for interactive user input.
+
 Integrate web scraping for trend detection.
 
 
