@@ -2,7 +2,7 @@
 A model that recommends relevant startups to JPMC investors based on preferences, similarly profiled investors, and likelihood of startup success. 
 
 
-**Project Overview**
+***Project Overview***
 
 Objective: 
 
@@ -27,14 +27,14 @@ Achieved 93% accuracy with a pairwise neural network model.
 Identified critical patterns in funding stages (e.g., Series A, Series B).
 Addressed challenges like data sparsity and class imbalance.
 
-**Future Directions:**
+***Future Directions:***
 
 Develop a frontend for interactive user input.
 
 Integrate web scraping for trend detection.
 
 
-****Credits and Acknowledgments****
+*****Credits and Acknowledgments*****
 
 **Team Members:**
 
