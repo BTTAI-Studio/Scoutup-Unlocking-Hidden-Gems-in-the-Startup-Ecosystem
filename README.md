@@ -23,27 +23,28 @@ Addressed challenges like data sparsity and class imbalance.
 Visuals:
 
 Gains charts and model performance graphs included to highlight findings.
-Future Directions:
 
-**Develop a frontend for interactive user input.
+**Future Directions:**
+
+Develop a frontend for interactive user input.
 Integrate web scraping for trend detection.
-Table of Contents
+
+**Table of Contents**
 Project Overview
 Installation
 Usage
 Contributing
-Credits and Acknowledgments**
+Credits and Acknowledgments
 
-**Credits and Acknowledgments**
+****Credits and Acknowledgments****
 
 **Team Members:**
-
 Christina Kaddouh, Yasmeen Shilbayeh, Xinyue Su, India Easton, Arushi Kashyap
-Advisors:
 
+**Advisors:**
 Shrey Verma, Adedapo Alabi
-**Tools Used:**
 
+**Tools Used:**
 Google Colab, Crunchbase, Pandas, TensorFlow, LightFM
 
 **Thank you to the Break Through Tech Virtual Program at Cornell Tech for the support!**
