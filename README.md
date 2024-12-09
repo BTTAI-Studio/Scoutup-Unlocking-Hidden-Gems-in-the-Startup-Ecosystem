@@ -3,9 +3,11 @@ A model that recommends relevant startups to JPMC investors based on preferences
 
 
 **Project Overview**
+
 Objective: Develop a recommendation model for startups tailored to investors using Crunchbase 2013 investment data.
 
 **Goals:**
+
 Build an accurate recommendation system.
 Enhance investor-client relations in JPMorgan's Wealth Management sector.
 Leverage data-driven insights to analyze funding trends.
@@ -30,6 +32,7 @@ Develop a frontend for interactive user input.
 Integrate web scraping for trend detection.
 
 **Table of Contents**
+
 Project Overview
 Installation
 Usage
@@ -39,15 +42,18 @@ Credits and Acknowledgments
 ****Credits and Acknowledgments****
 
 **Team Members:**
+
 Christina Kaddouh, Yasmeen Shilbayeh, Xinyue Su, India Easton, Arushi Kashyap
 
 **Advisors:**
+
 Shrey Verma, Adedapo Alabi
 
 **Tools Used:**
+
 Google Colab, Crunchbase, Pandas, TensorFlow, LightFM
 
-**Thank you to the Break Through Tech Virtual Program at Cornell Tech for the support!**
+**Thank you to the Break Through Tech Program at Cornell Tech for all the support!**
 
 
 
