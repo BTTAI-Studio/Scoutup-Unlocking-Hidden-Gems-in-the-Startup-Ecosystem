@@ -4,7 +4,7 @@ A model that recommends relevant startups to JPMC investors based on preferences
 
 ***Project Overview***
 
-Objective: 
+**Objective:** 
 
 Develop a recommendation model for startups tailored to investors using Crunchbase 2013 investment data.
 
