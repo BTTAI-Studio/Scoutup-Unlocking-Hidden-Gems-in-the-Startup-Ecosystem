@@ -22,7 +22,7 @@ Develop a recommendation model for startups tailored to investors using Crunchba
 * Model Development: Implemented KNN, LightFM, and Pairwise Neural Network models.
 * Evaluation Metrics: Focused on accuracy, precision, and recall for optimal recommendations.
 
-Key Outcomes:
+## Key Outcomes:
 
 * Achieved 93% accuracy with a pairwise neural network model.
 * Identified critical patterns in funding stages (e.g., Series A, Series B).
@@ -39,15 +39,20 @@ Key Outcomes:
 
 **Team Members:**
 
-Christina Kaddouh, Yasmeen Shilbayeh, Xinyue Su, India Easton, Arushi Kashyap
+* Christina Kaddouh
+* Yasmeen Shilbayeh
+* Xinyue Su
+* Arushi Kashyap
+* India Easton
 
 **Advisors:**
 
-Shrey Verma, Adedapo Alabi
+* Shrey Verma
+* Adedapo Alabi
 
 **Tools Used:**
 
-Google Colab, Crunchbase, Pandas, TensorFlow, LightFM, Python
+* Google Colab, Crunchbase, Pandas, TensorFlow, LightFM, Python
 
 **Thank you to the Break Through Tech Program at Cornell Tech for all the support!**
 
