@@ -1,4 +1,4 @@
-# JPMorgan Chase & Co: Unlocking Hidden Gems in the Startup Ecosystem (Scoutup)
+# Scoutup: Unlocking Hidden Gems in the Startup Ecosystem - JPMorgan Chase & Co
 A model that recommends relevant startups to JPMC investors based on preferences, similarly profiled investors, and likelihood of startup success. 
 
 
